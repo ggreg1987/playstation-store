@@ -8,3 +8,12 @@
     overflow: hidden;
     margin-top: 10px;
 }
+
+.card__image {
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.card__image:hover {
+    transform: scale(1.1);
+}
