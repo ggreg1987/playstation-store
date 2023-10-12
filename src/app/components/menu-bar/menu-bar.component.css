@@ -27,13 +27,18 @@
     list-style: none;
 }
 
-.menu-bar__item > ul > li > a{
+.menu-bar__item > ul > li > a {
     text-decoration: none;
+    padding: 5px;
 }
-
-.menu-bar__item > ul > li{
-    border: 1px solid rosybrown;
+.menu-bar__item > ul > li {
     padding: 5px;
     margin-right: 15px;
     border-radius: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.menu-bar__item > ul > li > a:hover {
+    font-size: 20px;
+    color: blue;
 }
