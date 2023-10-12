@@ -12,6 +12,7 @@
 .card__image {
     min-width: 100%;
     min-height: 100%;
+    transition: transform .8s;
 }
 
 .card__image:hover {
