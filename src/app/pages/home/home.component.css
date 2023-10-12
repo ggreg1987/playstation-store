@@ -6,4 +6,5 @@
     justify-content: space-around;
     align-items: baseline;
     flex-wrap: wrap;
+    border: solid 2px blue;
 }
