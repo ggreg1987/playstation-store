@@ -1,0 +1,10 @@
+.card__container {
+    position: relative;
+    border: solid 3px #3e4357;
+    border-radius: 10px;
+    width: 350px;
+    height: 500px;
+    display: flex;
+    overflow: hidden;
+    margin-top: 10px;
+}
