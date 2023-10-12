@@ -14,3 +14,9 @@
     display: flex;
     align-items: center;
 }
+
+.menu-bar__item {
+    display: flex;
+    margin: auto;
+    align-items: center;
+}
