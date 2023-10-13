@@ -1,0 +1,8 @@
+.card-price__container {
+    position: absolute;
+    bottom: 0px;
+    left: 0;
+    width: 100%;
+    height: 70px;
+    background-color: rgba(0, 0, 0, 0.8);
+}
